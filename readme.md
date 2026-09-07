@@ -1,12 +1,12 @@
 # Simulador de Escalonamento de Tarefas
 
-Projeto prático da disciplina de **Sistemas Operacionais**.
+Fork do [enunciado de Sistemas Operacionais](https://github.com/viniciussbrg/simulador-escalonamento). Este repositório contém os documentos e o modelo de entrega; ainda não inclui o simulador, `main.py` ou um executável. As funcionalidades descritas abaixo são requisitos do trabalho, não recursos já implementados neste fork.
 
 O trabalho consiste em desenvolver um simulador de escalonamento de tarefas em
 um processador, capaz de reproduzir os algoritmos vistos em sala e o fenômeno
 da inversão de prioridades, com seus mecanismos de correção.
 
-O simulador implementa seis algoritmos:
+O simulador solicitado no enunciado deve implementar seis algoritmos:
 
 - **FCFS** — First-Come, First-Served
 - **SJF** — Shortest Job First
@@ -42,7 +42,7 @@ incorporada.
 ```
 simulador-escalonamento/
 └── main
-    ├── README.md
+    ├── readme.md
     ├── .gitignore
     └── documentos/
 ```
@@ -88,7 +88,7 @@ Entrega - Grupo XX - Nome dos integrantes
 
 ```
 simulador-escalonamento/
-├── README.md              como executar, integrantes, funcionalidades
+├── readme.md              como executar, integrantes, funcionalidades
 ├── Simulador.exe          o arquivo que abre com dois cliques
 ├── main.py                ponto de entrada do código-fonte
 ├── simulador/             código-fonte
@@ -116,3 +116,7 @@ Entregas aprovadas e incorporadas ao repositório:
 - O projeto precisa **abrir com dois cliques**, sem montagem de ambiente
 - Não há relatório escrito: a análise dos resultados é feita oralmente
 - Dúvidas: abrir uma **Issue** neste repositório
+
+## Licenciamento
+
+O estado de licenciamento do material de origem está registrado em [license](license). Este fork não acrescenta permissão de reutilização ao código ou aos documentos de terceiros.

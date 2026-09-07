@@ -1,6 +1,6 @@
 # Simulador de Escalonamento de Tarefas — Grupo XX
 
-> Este é o modelo do `README.md` que deve ficar na **raiz do fork do grupo**.
+> Este é o modelo do `readme.md` que deve ficar na **raiz do fork do grupo**.
 > Copie o conteúdo, preencha todos os campos e apague estas linhas de
 > orientação antes de entregar.
 
@@ -27,7 +27,7 @@ Python e as bibliotecas necessárias, e qual arquivo receber o duplo clique. -->
 
 ```
 simulador-escalonamento/
-├── README.md
+├── readme.md
 ├── Simulador.exe
 ├── main.py
 ├── simulador/

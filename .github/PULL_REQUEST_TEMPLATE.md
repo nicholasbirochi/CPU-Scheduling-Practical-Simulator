@@ -13,7 +13,7 @@
 
 ## Conferência antes de entregar
 
-- [ ] O `README.md` está preenchido e informa como executar
+- [ ] O `readme.md` está preenchido e informa como executar
 - [ ] Não há `__pycache__`, ambiente virtual nem `build/` versionados
 - [ ] O executável foi enviado e não ficou preso no `.gitignore`
 - [ ] O histórico tem vários commits, com mensagens que descrevem o que mudou
